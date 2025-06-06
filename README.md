@@ -12,6 +12,8 @@ I'm a full stack developer...
 
 ### 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
+
 
 ### :fire: My Stats :
 
