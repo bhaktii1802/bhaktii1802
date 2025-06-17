@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a full stack developer...
+I'm an aspiring Data Scientist!
 
 
 # Hi, I'm Bhakti! 👋
