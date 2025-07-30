@@ -66,4 +66,4 @@ Hello! I’m passionate about machine learning, deep learning, and computer visi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktii1802l)](https://github.com/bhaktii1802/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktii1802)](https://github.com/bhaktii1802/github-readme-stats)
