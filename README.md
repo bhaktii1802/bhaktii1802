@@ -14,18 +14,33 @@ Hello! I’m passionate about machine learning, deep learning, and computer visi
 
 
 ## 🛠 Skills & Tech Stack
+
 ### Programming & Tools:
-Python, Linux, NVIDIA Jetson, Jupyter Notebooks
+- Python  
+- Linux  
+- NVIDIA Jetson  
+- Jupyter Notebooks
 
 ### Machine Learning & Deep Learning:
- #### Supervised & Unsupervised Learning, Model Optimization, XGBoost, PCA
- #### Deep Learning Frameworks: TensorFlow, Keras
+- Supervised Learning  
+- Unsupervised Learning  
+- Model Optimization  
+- XGBoost  
+- PCA  
+- TensorFlow  
+- Keras
 
 ### Computer Vision:
-Image Classification, CNNs, Transfer Learning (VGG16), OpenCV
+- Image Classification  
+- Convolutional Neural Networks (CNNs)  
+- Transfer Learning (VGG16)  
+- OpenCV
 
 ### Natural Language Processing (NLP):
-Text Preprocessing, Tokenization, Basic NLP Pipelines
+- Text Preprocessing  
+- Tokenization  
+- Basic NLP Pipelines
+
 
 
 
