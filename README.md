@@ -18,8 +18,8 @@ Hello! I’m passionate about machine learning, deep learning, and computer visi
 Python, Linux, NVIDIA Jetson, Jupyter Notebooks
 
 ### Machine Learning & Deep Learning:
-    - Supervised & Unsupervised Learning, Model Optimization, XGBoost, PCA
-    -Deep Learning Frameworks: TensorFlow, Keras
+ #### Supervised & Unsupervised Learning, Model Optimization, XGBoost, PCA
+ #### Deep Learning Frameworks: TensorFlow, Keras
 
 ### Computer Vision:
 Image Classification, CNNs, Transfer Learning (VGG16), OpenCV
@@ -27,7 +27,7 @@ Image Classification, CNNs, Transfer Learning (VGG16), OpenCV
 ### Natural Language Processing (NLP):
 Text Preprocessing, Tokenization, Basic NLP Pipelines
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
+
 
 ## 💡 Open to 
 
@@ -37,6 +37,8 @@ Text Preprocessing, Tokenization, Basic NLP Pipelines
 
 💬 Engaging with the community by sharing knowledge, exchanging ideas, and supporting others on their ML journey
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
 
 ### :fire: My Stats :
 
