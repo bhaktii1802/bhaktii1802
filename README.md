@@ -8,7 +8,7 @@ I'm an aspiring Data Scientist!
 Hello! I’m passionate about machine learning, deep learning, and computer vision. I specialize in building hybrid models that combine traditional ML techniques with deep learning architectures to solve real-world problems effectively. My expertise includes image classification, model optimization, and improving accuracy using CNNs, VGG16, PCA, and XGBoost. I enjoy experimenting with transfer learning, dimensionality reduction, and ensemble methods to enhance model performance. With a strong focus on computer vision, I aim to develop efficient, scalable, and high-performing models that make a measurable impact.
 
 
-## 🔗Let’s connect 
+## 🔗Let’s connect :)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-selokar-360958251/)
 
 
@@ -53,7 +53,7 @@ Hello! I’m passionate about machine learning, deep learning, and computer visi
 💬 Engaging with the community by sharing knowledge, exchanging ideas, and supporting others on their ML journey
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
+
 
 ### :fire: My Stats :
 
@@ -63,4 +63,6 @@ Hello! I’m passionate about machine learning, deep learning, and computer visi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhaktii1802&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaktii1802&show_icons=true&locale=en" alt="bhaktii1802" /></p>
 
